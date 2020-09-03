@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 text 3..............welcome to text 3
 =======
 text 3.............. updated
 >>>>>>> 08c7221acb00908031eb4dfe9806e499c7ede625
+=======
+text 3.............. updated..... new update
+>>>>>>> 84f7a3220965a042eb93fe5c0ba8b7b87b1d2846
